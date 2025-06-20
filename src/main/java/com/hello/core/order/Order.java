@@ -1,4 +1,4 @@
-package com.hello.core.Order;
+package com.hello.core.order;
 
 public class Order {
 
