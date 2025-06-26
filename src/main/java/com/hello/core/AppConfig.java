@@ -42,6 +42,7 @@ public class AppConfig {
         return new OrderServiceImpl(
             memberRepository(), discountPolicy()
         );
+//        return null;
     }
 
     @Bean
